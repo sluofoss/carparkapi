@@ -23,6 +23,13 @@ A REST API service that helps users find nearby parking availability in New Sout
 
 
 # Local Deployment
+0. Set up project environment
+
+The project is managed with uv.
+```bash
+pip install uv
+uv sync
+```
 
 1. Configuration
 
