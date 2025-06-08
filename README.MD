@@ -132,3 +132,4 @@ The project includes a GitHub Actions workflow that:
 # Current Issues:
 - Deployment to AWS blocked.
 - rate limit and cache test not comprehensive
+- CI/CD test workflow api key test currently fails on github action, method to resolve pending.
