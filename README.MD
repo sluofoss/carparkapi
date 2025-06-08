@@ -106,7 +106,8 @@ Run the container:
 ```bash
 docker run -d -p 8000:8000 --env-file .env --name carpark-api carpark-finder
 ```
-Assumptions & Notes
+
+# Assumptions & Notes
 
 1. Status Thresholds:
    - Available: >10% spots free
