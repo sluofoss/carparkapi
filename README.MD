@@ -126,10 +126,8 @@ Assumptions & Notes
 
 The project includes a GitHub Actions workflow that:
 - Runs tests on every push
-- Generates coverage reports
-- Checks code quality
 
 # Current Issues:
 - Deployment to AWS blocked.
-- rate limit and cache test not comprehensive
+- Rate limit and cache test not comprehensive.
 - CI/CD test workflow api key test currently fails on github action, method to resolve pending.
